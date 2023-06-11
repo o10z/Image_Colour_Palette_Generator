@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://wallpapers.com/images/featured/tlzydzdb2ogq2b70.jpg");
+    
+}
+
+h1,h3,p {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    background-color: white;
+    padding: 25px;
+}
+
+form {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.text {
+    margin-top: 15%;
+}
